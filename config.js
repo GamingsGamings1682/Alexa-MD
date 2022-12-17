@@ -14,7 +14,7 @@ module.exports = {
     HEROKU_API_KEY: process.env.HEROKU_API_KEY,
     AUDIO_DATA: process.env.AUDIO_DATA || "𝛥𝐿𝛯𝛸𝛥,𝑆𝛨𝛯𝐹𝛪𝛮,https://i.imgur.com/daBdQPW.jpeg",
     BOT_INFO: process.env.BOT_INFO || "𝛥𝐿𝛯𝛸𝛥,𝑆𝛨𝛯𝐹𝛪𝛮,919567489404,https://i.imgur.com/daBdQPW.jpeg",
-    STICKER_DATA: process.env.STICKER_DATA || "Alexa,Shefin",
+    STICKER_DATA: process.env.STICKER_DATA || "Alexa,GamingsGamings1682",
     READ_CMD: process.env.READ_COMMAND || "true", 
     LOG_MSG: toBool(process.env.LOG_MSG),
     ALWAYS_ONLINE: toBool(process.env.ALWAYS_ONLINE),
