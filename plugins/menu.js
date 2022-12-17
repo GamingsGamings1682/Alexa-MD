@@ -18,7 +18,7 @@ bot(
 
 bot(
   {
-    pattern: "list",
+    pattern: "king",
     fromMe: isPublic,
     dontAddCommandList: true,
   },
